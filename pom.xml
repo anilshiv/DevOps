@@ -22,11 +22,7 @@
   </modules>
 
   <distributionManagement>
-    <repository>
-      <id>devops</id>
-      <name>Release Distribution Repository</name>
-      <url>http://10.32.1.12:32000/repository/devops</url>
-    </repository>
+
   </distributionManagement>
 
   <build>
